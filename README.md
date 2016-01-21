@@ -1,4 +1,6 @@
 # Cash
+[![Build
+Status](https://travis-ci.org/kholbekj/cash.svg?branch=master)](https://travis-ci.org/kholbekj/cash)
 
 Simple gem to deal with currencies. Made as challenge, please don't use for anything that matters.
 
