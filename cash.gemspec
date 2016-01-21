@@ -7,10 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "cash"
   spec.version       = Cash::VERSION
   spec.authors       = ["Kasper Holbek Jensen"]
-  spec.email         = ["khj@autobutler.dk"]
+  spec.email         = ["kholbekj@gmail.com"]
 
   spec.summary       = %q{Convert currencies to other ones.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
